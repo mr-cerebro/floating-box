@@ -7,8 +7,6 @@ Aqui estão algumas idéias sobre mim para você começar:
 - 🤔 Estou procurando ajuda para muitos projetos, tente entrar em contato comigo!:
 - 💬 Me pergunte sobre qualquer coisa **[Paulo Pessoa](mailto:mrcerebro8@gmail.com)**.
 
-<div align="center">
-
 # Caixas Flutuantes :coffee:
 
 Desenvolvimento de caixas flutuantes para estudo aplicando as técnicas de CSS Flexbox e CSS Grid em simultâneo.
@@ -17,7 +15,7 @@ Facto que levou a concluir que podemos usar o CSS Flexbox e CSS Grid sempre que 
 
 Desenvolvimento com base no matérias dos cursos de CSS Flexbox e CSS Grid.
 
-![image-card](/home/mr-cerebro/Documentos/GitHub/floating-box/assets/img/image-card.png) 
+![image-card](assets/img/image-card.png) 
 
 Apenas desenvolvido para ser visualizado em Desktop.
 
